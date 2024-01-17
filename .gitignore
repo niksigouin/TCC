@@ -1,0 +1,6 @@
+.DS_STORE
+
+#TouchDesigner
+*.[0-9]*.toe
+*CrashAutoSave.*
+*TouchDesignerCrash.*.dmp
